@@ -1,0 +1,50 @@
+    1  sudo nordvpn disconnect
+    2  help
+    3  time
+    4  exit
+    5  clear
+    6  exit
+    7  man cat
+    8  q
+    9  exit
+   10  cd ~
+   11  pwd
+   12  ls
+   13  mkdir csc3320
+   14  ls
+   15  cd csc3320/
+   16  pwd
+   17  mkdir lab2
+   18  cd lab2
+   19  cat > myLab2.txt
+   20  cat -n myLab2.txt 
+   21  cd /home/droy4/
+   22  pwd
+   23  exit
+   24  cd ~
+   25  mkdir Lab2_P2
+   26  cd Lab2_P2/
+   27  cp /home/frondel1/public/RealEstate.csv .
+   28  cp /home/frondel1/Public/RealEstate.csv .
+   29  ls
+   30  cat RealEstate.csv 
+   31  head
+   32  head RealEstate.csv 
+   33  head -3 RealEstate.csv 
+   34  wc RealEstate.csv 
+   35  cat -n RealEstate.csv 
+   36  mkdir ../Public
+   37  cp /home/frondel1/Public/RealEstate.csv ../Public/myRealEstate.csv
+   38  pwd
+   39  ls ../Public/
+   40  ls /home/droy4/Public/
+   41  cd ../Public/
+   42  mkdir Regular
+   43  mkdir Submission
+   44  mkdir Submission/Lab2
+   45  mkdir Submission/Lab3
+   46  mv Regular Others
+   47  cp ../Lab2_P2/ Submission/Lab2
+   48  cp -r ../Lab2_P2/ Submission/Lab2/
+   49  rm -rf ../Lab2_P2/
+   50  history
